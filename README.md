@@ -6,6 +6,9 @@ Install ansible and curl on Ubuntu/WSL with a one liner.
 
 ```bash
 > curl https://raw.githubusercontent.com/youpiwaza/install-ansible-script/master/ansible-install.sh | bash
+
+# Verification
+> ansible --version
 ```
 
 ## Resources
